@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MasterMousa
-- 👀 I’m interested in programming and mathematics
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on anything in python, front-end and full stack development
-- 📫 How to reach me on my website mastermousa.herokuapp.com or facebook page : https://m.facebook.com/103279318856274/
 
-<!---
-MasterMousa/MasterMousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/MousaAboubaker#4571) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousaaboubaker/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MousaAboubaker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/MousaAboubakerAr) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/html-FF721D?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/css-506a9b?style=for-the-badge&logo=css3&logoColor=4cc) ![sass](https://img.shields.io/badge/sass-555?style=for-the-badge&logo=sass&logoColor=d77) ![javascript](https://img.shields.io/badge/javascript-666633?style=for-the-badge&logo=javascript&logoColor=eeee11) ![typescript](https://img.shields.io/badge/typescript-506a9b?style=for-the-badge&logo=typescript&logoColor=4cc) ![react](https://img.shields.io/badge/react-224?style=for-the-badge&logo=react&logoColor=4cc) ![django](https://img.shields.io/badge/django-cec?style=for-the-badge&logo=django&logoColor=161) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![postgresql](https://img.shields.io/badge/postegresql-111?style=for-the-badge&logo=postgresql&logoColor=506a9b) ![C++](https://img.shields.io/badge/c++-506a9b?style=for-the-badge&logo=cplusplus&logoColor=4cc)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MasterMousa&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MasterMousa&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterMousa&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
